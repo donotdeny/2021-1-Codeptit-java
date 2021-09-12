@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.Arrays;
 
-public class test{
+public class ex27{
 	public static void main(String[] args){
 		Scanner ip = new Scanner(System.in);
 		int t = ip.nextInt();
