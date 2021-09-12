@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class J03025{
+public class J03010{
     public static void main(String[] args){
         Scanner ip = new Scanner(System.in);
         int t = ip.nextInt();
